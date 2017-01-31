@@ -1,31 +1,31 @@
-‰|–{˜aO@ƒm[ƒgƒpƒ\ƒRƒ“@ƒXƒyƒbƒN
+ï»¿æ¦Žæœ¬å’Œå¼˜ã€€ãƒŽãƒ¼ãƒˆãƒ‘ã‚½ã‚³ãƒ³ã€€ã‚¹ãƒšãƒƒã‚¯
 
-OSEEEWindows 10 Home 64ƒrƒbƒg”Å
+OSãƒ»ãƒ»ãƒ»Windows 10 Home 64ãƒ“ãƒƒãƒˆç‰ˆ
 
-CPUEEEƒCƒ“ƒeƒ‹R Core i7-7700HQ ƒvƒƒZƒbƒT[
+CPUãƒ»ãƒ»ãƒ»ã‚¤ãƒ³ãƒ†ãƒ«R Core i7-7700HQ ãƒ—ãƒ­ã‚»ãƒƒã‚µãƒ¼
 
-ƒƒ‚ƒŠ[EEE8GBi8GB~1j
+ãƒ¡ãƒ¢ãƒªãƒ¼ãƒ»ãƒ»ãƒ»8GBï¼ˆ8GBÃ—1ï¼‰
 
-ƒƒ‚ƒŠƒXƒƒbƒgi‹ó‚«jEEE2i1j
+ãƒ¡ãƒ¢ãƒªã‚¹ãƒ­ãƒƒãƒˆï¼ˆç©ºãï¼‰ãƒ»ãƒ»ãƒ»2ï¼ˆ1ï¼‰
 
-ƒn[ƒhƒfƒBƒXƒNEEE1TB
+ãƒãƒ¼ãƒ‰ãƒ‡ã‚£ã‚¹ã‚¯ãƒ»ãƒ»ãƒ»1TB
 
-ƒOƒ‰ƒtƒBƒbƒNƒXEEEIntelR HD Graphics 630
+ã‚°ãƒ©ãƒ•ã‚£ãƒƒã‚¯ã‚¹ãƒ»ãƒ»ãƒ»IntelR HD Graphics 630
 
-‰ð‘œ“xEEEƒtƒ‹HD (1920x1080)
+è§£åƒåº¦ãƒ»ãƒ»ãƒ»ãƒ•ãƒ«HD (1920x1080)
 
-‰t»ƒfƒBƒXƒvƒŒƒCEEELEDƒoƒbƒNƒ‰ƒCƒg•tƒ^ƒbƒ`ƒpƒlƒ‹Ž®/‚‹P“xE‚Fƒ“xELŽ‹–ìŠp TFTƒJƒ‰[LCD
-iƒtƒ‹ƒtƒ‰ƒbƒgƒtƒ@ƒCƒ“ƒpƒlƒ‹j
+æ¶²æ™¶ãƒ‡ã‚£ã‚¹ãƒ—ãƒ¬ã‚¤ãƒ»ãƒ»ãƒ»LEDãƒãƒƒã‚¯ãƒ©ã‚¤ãƒˆä»˜ã‚¿ãƒƒãƒãƒ‘ãƒãƒ«å¼/é«˜è¼åº¦ãƒ»é«˜è‰²ç´”åº¦ãƒ»åºƒè¦–é‡Žè§’ TFTã‚«ãƒ©ãƒ¼LCD
+ï¼ˆãƒ•ãƒ«ãƒ•ãƒ©ãƒƒãƒˆãƒ•ã‚¡ã‚¤ãƒ³ãƒ‘ãƒãƒ«ï¼‰
 
-ƒpƒlƒ‹ƒTƒCƒYEEE15.6Œ^
+ãƒ‘ãƒãƒ«ã‚µã‚¤ã‚ºãƒ»ãƒ»ãƒ»15.6åž‹
 
-“à‘ –³üLAN‹@”\EEEIEEE802.11a (54Mbps)
-		@@ IEEE802.11b (11Mbps)
+å†…è”µç„¡ç·šLANæ©Ÿèƒ½ãƒ»ãƒ»ãƒ»IEEE802.11a (54Mbps)
+		ã€€ã€€ IEEE802.11b (11Mbps)
 		     IEEE802.11g (54Mbps)
 		     IEEE802.11n
 		     IEEE802.11ac
 
-USBEEEUSB3.1 Type-C~1/USB3.0 Type-A~2/USB2.0 Type-A~1
+USBãƒ»ãƒ»ãƒ»USB3.1 Type-CÃ—1/USB3.0 Type-AÃ—2/USB2.0 Type-AÃ—1
 
-ŒõŠwƒhƒ‰ƒCƒuEEEBDXL‘Î‰žBlu-ray Discƒhƒ‰ƒCƒu
+å…‰å­¦ãƒ‰ãƒ©ã‚¤ãƒ–ãƒ»ãƒ»ãƒ»BDXLå¯¾å¿œBlu-ray Discãƒ‰ãƒ©ã‚¤ãƒ–
 
