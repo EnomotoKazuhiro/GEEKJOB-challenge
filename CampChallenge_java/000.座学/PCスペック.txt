@@ -1,0 +1,31 @@
+榎本和弘　ノートパソコン　スペック
+
+OS・・・Windows 10 Home 64ビット版
+
+CPU・・・インテルR Core i7-7700HQ プロセッサー
+
+メモリー・・・8GB（8GB×1）
+
+メモリスロット（空き）・・・2（1）
+
+ハードディスク・・・1TB
+
+グラフィックス・・・IntelR HD Graphics 630
+
+解像度・・・フルHD (1920x1080)
+
+液晶ディスプレイ・・・LEDバックライト付タッチパネル式/高輝度・高色純度・広視野角 TFTカラーLCD
+（フルフラットファインパネル）
+
+パネルサイズ・・・15.6型
+
+内蔵無線LAN機能・・・IEEE802.11a (54Mbps)
+		　　 IEEE802.11b (11Mbps)
+		     IEEE802.11g (54Mbps)
+		     IEEE802.11n
+		     IEEE802.11ac
+
+USB・・・USB3.1 Type-C×1/USB3.0 Type-A×2/USB2.0 Type-A×1
+
+光学ドライブ・・・BDXL対応Blu-ray Discドライブ
+
