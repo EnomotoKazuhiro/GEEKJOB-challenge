@@ -5,6 +5,12 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%
+    String talk ="Hello world.";
+
+
+
+%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -12,10 +18,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-    <%
-        out.print("Hello world.");
-        
-        
-     %>   
+    <%=talk%>     
     </body>
 </html>
