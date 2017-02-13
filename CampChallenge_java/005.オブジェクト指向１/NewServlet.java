@@ -34,6 +34,7 @@ public class NewServlet extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         
         Apple a=new Apple();
+        clear c=new clear();
         
         
         try (PrintWriter out = response.getWriter()) {
@@ -44,8 +45,12 @@ public class NewServlet extends HttpServlet {
             out.println("<title>Servlet NewServlet</title>");            
             out.println("</head>");
             out.println("<body>");
+            
             out.println("重さweight="+a.weight+"グラム<br>");
-            out.println("価格price="+a.price+"円");
+            out.println("価格price="+a.price+"円<br>");
+            out.println("重さweight="+c.weight+"グラム<br>");
+            out.println("価格price="+c.price+"円");
+            
             out.println("</body>");
             out.println("</html>");
         }
