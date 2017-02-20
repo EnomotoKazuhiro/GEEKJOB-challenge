@@ -43,6 +43,10 @@ public class Stclass extends HttpServlet {
         int yy =cal.get(Calendar.YEAR);
         int mm =cal.get(Calendar.MONTH);
         int dd =cal.get(Calendar.DAY_OF_MONTH);
+        int h1 =cal.get(Calendar.HOUR);
+        int h2 =cal.get(Calendar.HOUR_OF_DAY);
+        int m  =cal.get(Calendar.MINUTE);
+        int s  =cal.get(Calendar.SECOND);
         
         Calendar AAA = Calendar.getInstance();
         AAA.set(2016, 1, 1, 0, 0, 0);
@@ -57,7 +61,8 @@ public class Stclass extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>"+date+"</h1>");
-            out.println(yy+"年"+mm+"月"+dd+"日");
+            out.println(yy+"年"+mm+"月"+dd+"日"+h1+"時"+m+"分"+s+"秒");//12時間表記
+            out.println("<br>"+yy+"年"+mm+"月"+dd+"日"+h2+"時"+m+"分"+s+"秒");//24時間表記
             out.println("<br>TimeStamp型"+class1.getTime());
             out.println("</body>");
             out.println("</html>");
