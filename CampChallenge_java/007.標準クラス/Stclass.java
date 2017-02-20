@@ -59,7 +59,7 @@ public class Stclass extends HttpServlet {
         
         
         
-        //課題タイムスタンプの表示
+        //課題タイムスタンプの表示1
         /*
         2016年11月4日 10時0分0秒のタイムスタンプを作成し、
         「年-月-日 時:分:秒」で表示してください。
@@ -78,6 +78,29 @@ public class Stclass extends HttpServlet {
         int h22 =cal1.get(Calendar.HOUR_OF_DAY);
         int m2  =cal1.get(Calendar.MINUTE);
         int s2  =cal1.get(Calendar.SECOND);
+        
+        
+        //課題タイムスタンプの表示2
+        /*
+        2015年1月1日 0時0分0秒と2015年12月31日 23時59分59秒
+        の差（ミリ秒）を表示してください。
+        
+        */
+        
+        
+        //2015/1/1/0.0.0
+        Calendar CCC = Calendar.getInstance();
+        CCC.set(2015,1,1,0,0,0);
+        Date class3=CCC.getTime();
+        
+        long date1=CCC.getTimeInMillis();
+        
+        //2015/12/31/23.59.59
+        Calendar DDD = Calendar.getInstance();
+        DDD.set(2015,12,31,23,59,59);
+        Date class4=DDD.getTime();
+        
+        long date2=DDD.getTimeInMillis();
         
         
         
@@ -104,6 +127,13 @@ public class Stclass extends HttpServlet {
             //課題：タイムスタンプの表示
             out.println("<br>タイムスタンプの表示");
             out.println("<br>"+yy2+"年"+mm2+"月"+dd2+"日"+h22+"時"+m2+"分"+s2+"秒");//24時間表記
+            
+            
+            //課題：タイムスタンプの表示2
+            out.println("タイムスタンプの表示2");
+            out.println("<br>"+class3+"と"+class4+"<br>の差時間分（ミリ秒）");
+            out.println(date2-date1);
+            
             
             
             out.println("</body>");
