@@ -52,6 +52,15 @@ public class Moji extends HttpServlet {
         //String mailAdress= mail + mailAfter;
         
         
+        //課題：文字の置換
+        String kadai="以下の文章の「I」⇒「い」に、「U」⇒「う」に入れ替える処理を作成し、結果を表示してください。";
+        String bunsyou="「きょUはぴIえIちぴIのくみこみかんすUのがくしゅUをしてIます」";
+        
+        
+        
+        
+        String process=bunsyou.replace("I", "い");
+        String result=process.replace("U", "う");
         
         try (PrintWriter out = response.getWriter()) {
             /* TODO output your page here. You may use following sample code. */
@@ -76,7 +85,12 @@ public class Moji extends HttpServlet {
             out.println("<br><br>文字の取得<br>");
             out.println(mail.substring(13));
             
-            
+            //課題：文字の入れ替え
+            out.println("<br><br>文字の入れ替え<br>");
+            out.println("課題："+kadai+"<br>");
+            out.println("問題文"+bunsyou+"<br>");
+            out.println(process+"<br>");
+            out.println(result);
             
             out.println("</body>");
             out.println("</html>");
