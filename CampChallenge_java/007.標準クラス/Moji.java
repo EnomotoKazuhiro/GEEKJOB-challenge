@@ -34,7 +34,7 @@ public class Moji extends HttpServlet {
         
         
         
-        
+        //課題：バイト数と文字数の取得
         String Name="えのもとかずひろ";
         
         int Length=0;
@@ -42,10 +42,14 @@ public class Moji extends HttpServlet {
         //名前の長さ
         Length=Name.length();
         
-        //バイト数
+        //課題：自分のメールアドレスの「@」以降の文字を取得して、表示してください
         
+        //@より前のメールアドレス
+        String mail="k.e.ballroom@gmail.com";
+        
+        //String mailAfter="gmail.com";
        
-        
+        //String mailAdress= mail + mailAfter;
         
         
         
@@ -60,16 +64,17 @@ public class Moji extends HttpServlet {
             out.println("<h1>Servlet Moji at " + request.getContextPath() + "</h1>");
             
             
-            
+            //課題：バイト数と文字数の取得
             out.println("バイト数<br>");
-            
             out.println(Name.getBytes().length);
-            
-            
-            
+           
             out.println("<br>名前の長さ<br>");
-            
             out.println(Length);
+            
+            
+            //課題：文字の取得
+            out.println("<br><br>文字の取得<br>");
+            out.println(mail.substring(13));
             
             
             
